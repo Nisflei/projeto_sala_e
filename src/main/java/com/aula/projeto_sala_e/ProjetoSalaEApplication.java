@@ -15,6 +15,6 @@ public class ProjetoSalaEApplication {
 
     @GetMapping("/")
     public String oi(){
-        return "Manu cuida da turma... Germinare Tech..!";
+        return "Sala 2o. E turma Germinare Tech..!";
     }
 }
